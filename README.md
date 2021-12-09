@@ -1,4 +1,4 @@
-# Odin Project - Foundations
+# Odin Foundations Project:Recipes 
 First project in Odin Foundations: create basic html page with recipes
 
 Iteration 1: Initial structure
